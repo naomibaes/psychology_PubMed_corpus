@@ -1,4 +1,4 @@
-# Datasheet for dataset "add dataset name here"
+# Datasheet for dataset "Psychology PubMed Corpus"
 
 Questions from the [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) paper, v7.
 
@@ -42,8 +42,7 @@ comparable regulations in other jurisdictions._
 
 ### What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?
 
-_Are there multiple types of instances (e.g., movies, users, and ratings; people and
-interactions between them; nodes and edges)? Please provide a description._
+_Scientific articles from PubMed and PubMed Central Corpora scraped from the Semantic Scholar API, filtered by their publication in Psychology journals._
 
 ### How many instances are there in total (of each type, if appropriate)?
 
